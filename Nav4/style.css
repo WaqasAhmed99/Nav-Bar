@@ -1,0 +1,142 @@
+body{
+    margin:0;
+    background-color: white;
+}
+
+
+/* nav1 */
+.nav{
+    margin: auto;
+    width: 80%;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+
+img{
+    width: 7%;
+    height: 5%;
+}
+
+
+.space{
+    margin-top: 25px;
+}
+
+.nav1{
+        background-color: #252631;
+
+}
+
+.logo{
+    align-items: center;
+    display: flex;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+    color: white;
+}
+
+.menu{
+    display: flex;
+}
+
+button{
+    padding: 10px 20px;
+    margin-right: 10px;
+}
+
+.buy{
+    font-size: 15px;
+    color: rgb(65, 206, 206);
+    background-color: white;
+    border: none;
+    border-radius: 3px;
+    border: 1px solid
+}
+
+.discover{
+    font-size: 15px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+
+ul{
+    display: flex;
+    align-items: center;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+    margin: 0px 15px 0px 5px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+}
+
+
+.fa-solid {
+    font-size: 20px;
+    color: black;
+}
+
+.magnifying-glass{
+    border-left: 1px solid rgba(151, 142, 142, 0.685);
+    padding-left: 10px;
+}
+
+
+
+/* nav2 */
+
+.nav2{
+    background-color: #444AF6;
+    height: 10vh;
+}
+
+
+
+/* nav3 */
+.nav3{
+    background-color:#5ACAA7 ;
+}
+
+.signin{
+    display: flex;
+    color: white;
+    background-color: #444AF6;
+    border: none;
+    border-radius: 5px;
+    padding: 17px 30px;
+}
+
+.fa-user {
+    margin-right: 10px;
+    font-size: 12px;
+    align-items: center;
+    color: white;
+}
+
+
+.fa-solid{
+    color: white;
+    font-size: 17px;
+}
+
+
+
+.nav4{
+    background-color: #ED3B59;
+}
+
+
+.icon{
+    font-size: 20px;
+    margin-right: 3px;
+}

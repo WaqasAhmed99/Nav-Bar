@@ -1,0 +1,136 @@
+body{
+    margin:0;
+    background-color: white;
+}
+
+
+/* nav1 */
+.nav{
+    margin: auto;
+    width: 80%;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+
+
+.space{
+    margin-top: 25px;
+}
+
+.nav1{
+        background-color: #D8F8FF;
+
+}
+
+.logo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.6rem;
+    color: black;
+}
+
+.menu{
+
+display: flex;
+}
+
+
+ul{
+    display: flex;
+    align-items: center;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+    margin: 0px 15px 0px 5px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+}
+
+
+.fa-solid {
+    font-size: 20px;
+    color: black;
+}
+
+.magnifying-glass{
+    border-left: 1px solid rgba(151, 142, 142, 0.685);
+    padding-left: 10px;
+}
+
+
+
+
+/* nav2 */
+
+
+.nav2{
+    background-color: #D8F8FF;
+}
+
+.nav2-1{
+    background-color:#B9F5FF ;
+}
+a{
+    text-decoration: none;
+    color: rgb(146, 139, 139);
+}
+button{
+    color: white;
+    background-color: #00A3F5;
+    border: none;
+    padding: 5px 20px 5px 20px;
+
+}
+
+
+
+.nav3{
+    background-color:#D8F8FF ;
+}
+
+.btn{
+    margin-right: -19px;
+    margin-top: -1px;
+    padding: 18px 40px 17px 20px;
+}
+
+.nav3-1{
+    background-color: #B9F5FF;
+}
+
+
+
+
+
+/* nav4 */
+.nav4{
+    background-color: #D8F8FF;
+}
+
+
+
+
+/* nav5 */
+.nav5{
+    background-color: #D8F8FF;
+}
+
+.menu{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+/* nav6 */
+
+.nav6{
+    background-color: #D8F8FF;
+}
+
